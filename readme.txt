@@ -7,11 +7,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Replaces individual author names in feeds with the site name.
 
 == Description ==
 
-Replaces individual author names in feeds with the site name.
+This plugin performs the simple task of replacing individual author names in feeds with the site name.
 
 This is useful for blogs that are written by multiple authors that have the "authoritative voice" of the blog itself,
 rather than attributing each post to its individual author.  This plugin makes the posts in the feeds (all feeds: rss,
